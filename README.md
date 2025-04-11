@@ -593,3 +593,8 @@
 ## ⭕ Real Project Example
 
 - [ClimaX](https://github.com/HusseinElbhrawy/ClimaX) : Check `features/change-to-yx-scope` Branch and `features/enhace-yx-scope`
+
+
+## ⭕ Reference 
+- [yx_scope_flutter Docs](https://github.com/yandex/yx_scope/blob/main/packages/yx_scope_flutter/doc/introduction.md)
+- [yx_scope](https://github.com/yandex/yx_scope/blob/main/packages/yx_scope/README.md)
