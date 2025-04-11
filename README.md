@@ -592,4 +592,4 @@
 
 ## ⭕ Real Project Example
 
-- [Climx](https://github.com/HusseinElbhrawy/ClimaX) : Check `features/change-to-yx-scope` Branch and `features/enhace-yx-scope`
+- [ClimaX](https://github.com/HusseinElbhrawy/ClimaX) : Check `features/change-to-yx-scope` Branch and `features/enhace-yx-scope`
