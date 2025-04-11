@@ -589,6 +589,18 @@
 
 ---
 
+## ⭕ Important Keywords
+
+- `ScopeCotainer`
+- `ScopeHolder`
+- ``ScopeProvider``
+- `ScopeBuilder`
+- `ChildScopeSContainer`
+- `BaseChildScopeHolder`
+- `dep()`
+- `rawAsyncDep()`
+- `Scope`
+- `ScopeMoudle`
 
 ## ⭕ Real Project Example
 
